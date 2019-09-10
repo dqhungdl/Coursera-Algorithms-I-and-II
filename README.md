@@ -1,5 +1,5 @@
 # Coursera Algorithms part I
-Assignments from Coursera Algorithm part I.
+Assignments from Coursera Algorithms part I.
 ## Source codes:
 | Week | Problems | Score |
 | :---: | :---: | :---: |
